@@ -1,0 +1,2 @@
+# ClosingTheProgramProperly
+IntelliJ, JavaFX
